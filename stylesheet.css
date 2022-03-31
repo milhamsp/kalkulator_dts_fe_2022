@@ -1,13 +1,14 @@
-
 body{
 	background-color: gray;
+	box-sizing: border-box;
 }
 
 .calculator{
+	box-sizing: border-box;
 	text-align: center;
-	margin: auto;
+	margin: auto 20px;
 	padding: 20px;
-	width: 100%;
+	width: 95%;
 	background-image: linear-gradient(180deg,gray,black);
 	border-radius: 5px 5px;
 	box-shadow: 1px 0px 5px;
